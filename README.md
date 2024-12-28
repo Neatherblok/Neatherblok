@@ -1,23 +1,23 @@
 <h1 align="center">Hi 👋, I'm Ricardo de Deijn</h1>
-<h3 align="center">A passionate data science student from the Netherlands!</h3>
+<h3 align="center">A dedicated data scientist with a passion for innovation and research!</h3>
 
-- 🔭 I’m currently working on **exploring the intersection of data science and technology in pursuit of a Master's degree in Data Science at Minnesota State University, Mankato. I'm actively engaged in diverse projects that enhance my skills in Python, SQL, R, and machine learning. I have recently been a part of a research group that has been researching several generative adversarial networks (GANs) and how the Signed Inception Distance (SID) metric can be used in addition to Fréchet Inception Distance (FID) to evaluate these models.**
+- 🔭 I recently completed my **Master of Science in Data Science at Minnesota State University, Mankato. During my academic journey, I explored cutting-edge intersections of data science and technology, focusing on projects that strengthened my expertise in Python, SQL, R, and machine learning. My research includes pioneering work on evaluating generative adversarial networks (GANs) using metrics like Signed Inception Distance (SID) alongside Fréchet Inception Distance (FID).**
 
-- 🌱 I’m currently deepening **my knowledge in machine learning, statistical modeling, data mining, and deep learning. Actively seeking opportunities to apply and expand my skills in real-world scenarios.**
+- 🌱 I’m currently advancing **my knowledge in machine learning, computer vision, and generative AI. I am especially interested in tackling challenges in real-time AI applications, algorithm optimization, and scalability.**
 
-- 👯 I’m looking to collaborate on **exciting projects related to data science, machine learning, and innovative technologies. Open to collaborating with fellow enthusiasts and professionals who share a passion for leveraging data to drive meaningful insights.**
+- 👯 I’m looking to collaborate on **innovative projects in AI, computer vision, and data science. I thrive in cross-functional teams and am eager to contribute to meaningful technological advancements.**
 
-- 🤝 I’m looking for help with **enhancing my expertise in algorithmic scaling and complexity. Interested in connecting with individuals who can offer insights into the latest advancements in deep learning for audio and digital signal processing.**
+- 🤝 I’m open to discussing **research opportunities, especially in autonomous systems, real-time AI, and applications of GANs. I’m also keen on learning about the latest trends in algorithmic scaling and optimization techniques.**
 
-- 📝 I regularly write articles on [https://medium.com/@ricodedeijn](https://medium.com/@ricodedeijn)
+- 📝 I share insights regularly on [https://medium.com/@ricodedeijn](https://medium.com/@ricodedeijn)
 
-- 💬 Ask me about **my experience as a Junior Data Scientist, where I led a project to revamp data infrastructure and implemented object recognition models. Also, feel free to discuss my academic journey, volunteer experiences, or anything related to data science and technology.**
+- 💬 Ask me about **my experience in building machine learning models for real-time applications, my contributions to generative AI research, or how my academic and professional journey has shaped my expertise.**
 
 - 📫 How to reach me **ricardodedeijn@gmail.com**
 
-- ⚡ Fun fact **Climbed 'Mont Ventoux' in France as part of a biking event to collect funds for Multiple Sclerosis (MS) research. An enthusiast not only in data science but also in supporting charitable causes.**
+- ⚡ Fun fact **I climbed 'Mont Ventoux' in France during a biking event to support Multiple Sclerosis (MS) research—combining my passion for adventure with a commitment to charitable causes.**
 
-### Blogs posts
+### Blog posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
@@ -33,4 +33,3 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/Neatherblok"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Neatherblok" /></a></p><br><br>
-
